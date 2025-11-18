@@ -1,16 +1,14 @@
-# evaluacion_estudiantil
+# Evaluación Estudiantil
 
-A new Flutter project.
+Aplicación para gestionar notas, promedio, edad y análisis básico de estudiantes.
 
-## Getting Started
+## Tecnologías
+- HTML
+- CSS
+- JavaScript
 
-This project is a starting point for a Flutter application.
+## Funcionalidades
+- Registro de estudiantes
+- Cálculo de promedio
+- Validación de datos
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
